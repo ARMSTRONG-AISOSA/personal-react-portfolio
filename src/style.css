@@ -25,7 +25,7 @@
     --container-width-ms: 90%;
 
     /* Transition */
-    --transition: all 400ms easy;
+    --transition: all 400ms ease;
 }
 
 html {
@@ -48,7 +48,7 @@ body {
 
 .container {
     width: var(--container-width-lg);
-    margin: o auto;
+    margin: 0 auto;
 }
 
 h1,
@@ -133,7 +133,7 @@ img {
 /* ======================== Media Queries - Mobile ======================== */
 @media screen and (max-width:600px) {
     .container {
-        width: var(--container-width-sm);
+        width: var(--container-width-ms);
     }
 
     section > h2 {
