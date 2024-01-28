@@ -26,6 +26,7 @@
 
     /* Transition */
     --transition: all 400ms ease;
+    --transition2: all 600ms ease;
 }
 
 html {
@@ -63,8 +64,16 @@ h1 {
     font-size: 2.5rem;
 }
 
+
+/* ===== Me ===== */
+h4 {
+    font-weight: bold;
+}
+/* ===== Me ===== */
+
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2,

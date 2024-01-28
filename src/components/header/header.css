@@ -60,3 +60,21 @@ header {
     font-size: 0.9rem;
     font-weight: 300;
 }
+
+/* ======================== Media Queries - Tablet ======================== */
+@media screen and (max-width:1024px) {
+    header {
+        height: 68vh;
+    }
+}
+
+/* ======================== Media Queries - Mobile ======================== */
+@media screen and (max-width:600px) {
+    header {
+        height: 100vh;
+    }
+    .header__socials,
+    .scroll__down {
+        display: none;
+    }
+}
