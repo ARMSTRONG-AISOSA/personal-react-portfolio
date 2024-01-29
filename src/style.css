@@ -22,7 +22,7 @@
     /* Container width */
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-sm: 90%;
 
     /* Transition */
     --transition: all 400ms ease;
@@ -66,23 +66,24 @@ h1 {
 
 
 /* ===== Me ===== */
+h3,
 h4 {
     font-weight: bold;
 }
+
 /* ===== Me ===== */
 
 section {
     margin-top: 8rem;
-    height: 100vh;
 }
 
-section > h2,
-section > h5 {
+section>h2,
+section>h5 {
     text-align: center;
     color: var(--color-light);
 }
 
-section > h2 {
+section>h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
 }
@@ -93,7 +94,7 @@ section > h2 {
 
 a {
     color: var(--color-primary);
-    transition:var(--transition);
+    transition: var(--transition);
 }
 
 a:hover {
@@ -142,10 +143,10 @@ img {
 /* ======================== Media Queries - Mobile ======================== */
 @media screen and (max-width:600px) {
     .container {
-        width: var(--container-width-ms);
+        width: var(--container-width-sm);
     }
 
-    section > h2 {
+    section>h2 {
         margin-top: 2rem;
     }
 }

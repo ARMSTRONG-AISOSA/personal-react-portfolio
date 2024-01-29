@@ -15,7 +15,7 @@ const Experience = () => {
           <div className="experience__content">
             {/* #1 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>HTML</h4>
                 <small className='text-light'>Experienced</small>
@@ -23,7 +23,7 @@ const Experience = () => {
             </article>
             {/* #2 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>CSS</h4>
                 <small className='text-light'>Experienced</small>
@@ -31,7 +31,7 @@ const Experience = () => {
             </article>
             {/* #3 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>JavaScript</h4>
                 <small className='text-light'>Experienced</small>
@@ -39,7 +39,7 @@ const Experience = () => {
             </article>
             {/* #4 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Bootstrap</h4>
                 <small className='text-light'>Experienced</small>
@@ -47,7 +47,7 @@ const Experience = () => {
             </article>
             {/* #5 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>React</h4>
                 <small className='text-light'>Intermediate</small>
@@ -55,7 +55,7 @@ const Experience = () => {
             </article>
             {/* #6 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>GIT</h4>
                 <small className='text-light'>Intermediate</small>
@@ -70,7 +70,7 @@ const Experience = () => {
           <div className="experience__content">
             {/* #1 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Documentation</h4>
                 <small className='text-light'>Experienced</small>
@@ -78,15 +78,15 @@ const Experience = () => {
             </article>
             {/* #2 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Business Plan Design</h4>
+                <h4>Business Plan</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             {/* #3 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Pitch Deck</h4>
                 <small className='text-light'>Experienced</small>
@@ -94,7 +94,7 @@ const Experience = () => {
             </article>
             {/* #4 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Financials</h4>
                 <small className='text-light'>Basic</small>
@@ -102,7 +102,7 @@ const Experience = () => {
             </article>
             {/* #5 */}
             <article className="experience__details">
-              <BsPatchCheckFill />
+              <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Proposals</h4>
                 <small className='text-light'>Experienced</small>
