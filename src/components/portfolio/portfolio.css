@@ -22,6 +22,15 @@
     overflow: hidden;
 }
 
+.portfolio__item-image img {
+    scale: 1.1;
+    transition: var(--transition);
+}
+
+.portfolio__item-image img:hover {
+    scale: 1;
+}
+
 .portfolio__item h3 {
     margin: 1.2rem 0 2rem;
 }

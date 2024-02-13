@@ -16,18 +16,20 @@ nav {
 }
 
 nav a {
-  background: transparent;
-  padding: 0.9rem;  
-  border-radius: 50%;
-  display: flex;
-  color: var(--color-light);
-  font-size: 1.1rem;
-  transition: var( --transition);
+    background: transparent;
+    padding: 0.9rem;
+    border-radius: 50%;
+    display: flex;
+    color: var(--color-light);
+    font-size: 1.1rem;
+    transition: var(--transition);
 }
 
-nav a:hover {
+nav a:hover,
+nav a:focus {
     background-color: rgba(0, 0, 0, 0.4);
     color: var(--color-primary);
+    transform: scale(1.1) translateY(-4px);
 }
 
 nav a.active {
