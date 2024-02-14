@@ -18,18 +18,12 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, {
-        publicKey: 'YOUR_PUBLIC_KEY',
+      .sendForm('service_ku92yhq', 'template_gcr6neu', form.current, {
+        publicKey: 'mOckuIybXSH4y9QdL',
       })
-      .then(
-        () => {
-          console.log('SUCCESS!');
-        },
-        (error) => {
-          console.log('FAILED...', error.text);
-        },
-      );
-  }
+
+    e.target.reset();
+  };
 
   return (
     <section id='contact'>
@@ -65,7 +59,7 @@ const Contact = () => {
         </div>
 
         {/* Right */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" id="name" placeholder='Enter your full name' required />
           <input type="email" name="email" id="email" placeholder='Enter your email' required />
           <textarea name="message" id="message" rows="7" placeholder='Write your message to me' required></textarea>
