@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/personal-react-portfolio/static/css/main.63d45bfa.css",
-    "main.js": "/.github.io/personal-react-portfolio/static/js/main.cddbbbce.js",
+    "main.css": "/.github.io/personal-react-portfolio/static/css/main.8a828677.css",
+    "main.js": "/.github.io/personal-react-portfolio/static/js/main.24e7c0ac.js",
+    "static/media/me-hero.png": "/.github.io/personal-react-portfolio/static/media/me-hero.bd4ac2cf7e2a559d2c91.png",
     "static/media/cv.pdf": "/.github.io/personal-react-portfolio/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/.github.io/personal-react-portfolio/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/.github.io/personal-react-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/me-about-photo.png": "/.github.io/personal-react-portfolio/static/media/me-about-photo.0a1c3ac0890f662074c9.png",
     "static/media/portfolio5.png": "/.github.io/personal-react-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/.github.io/personal-react-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/.github.io/personal-react-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/.github.io/personal-react-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/.github.io/personal-react-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/.github.io/personal-react-portfolio/index.html",
-    "main.63d45bfa.css.map": "/.github.io/personal-react-portfolio/static/css/main.63d45bfa.css.map",
-    "main.cddbbbce.js.map": "/.github.io/personal-react-portfolio/static/js/main.cddbbbce.js.map"
+    "main.8a828677.css.map": "/.github.io/personal-react-portfolio/static/css/main.8a828677.css.map",
+    "main.24e7c0ac.js.map": "/.github.io/personal-react-portfolio/static/js/main.24e7c0ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.63d45bfa.css",
-    "static/js/main.cddbbbce.js"
+    "static/css/main.8a828677.css",
+    "static/js/main.24e7c0ac.js"
   ]
 }
