@@ -1,7 +1,7 @@
 import React from 'react';
 import './contact.css';
 import { MdOutlineMailOutline } from "react-icons/md";
-import { RiMessengerLine } from "react-icons/ri";
+import { FaLinkedinIn } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 
 // emailjs
@@ -43,10 +43,10 @@ const Contact = () => {
 
           {/* Messenger */}
           <article className="contact__option">
-            <RiMessengerLine className="contact__option-icon" />
-            <h4>Messenger</h4>
+            <FaLinkedinIn className="contact__option-icon" />
+            <h4>LinkedIn</h4>
             <h5>Omoregie Armstrong</h5>
-            <a href="#" >Send a Message</a>
+            <a href="https://www.linkedin.com/in/armstrong-omoregie-02367a271" target='_blank' >Send a Message</a>
           </article>
 
           {/* Whatsapp */}

@@ -10,6 +10,10 @@ header {
     position: relative;
 }
 
+.me-img {
+    transform: scale(0.75) translateY(-140px);
+}
+
 /* ====================  CTA =================== */
 
 .cta {
