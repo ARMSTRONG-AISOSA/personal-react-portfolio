@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/.github.io/personal-react-portfolio/static/css/main.8a828677.css",
-    "main.js": "/.github.io/personal-react-portfolio/static/js/main.5c290a56.js",
+    "main.js": "/.github.io/personal-react-portfolio/static/js/main.f3acd684.js",
     "static/media/me-hero.png": "/.github.io/personal-react-portfolio/static/media/me-hero.bd4ac2cf7e2a559d2c91.png",
     "static/media/cv.pdf": "/.github.io/personal-react-portfolio/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/me-about-photo.png": "/.github.io/personal-react-portfolio/static/media/me-about-photo.0a1c3ac0890f662074c9.png",
@@ -13,10 +13,10 @@
     "static/media/portfolio4.jpg": "/.github.io/personal-react-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/.github.io/personal-react-portfolio/index.html",
     "main.8a828677.css.map": "/.github.io/personal-react-portfolio/static/css/main.8a828677.css.map",
-    "main.5c290a56.js.map": "/.github.io/personal-react-portfolio/static/js/main.5c290a56.js.map"
+    "main.f3acd684.js.map": "/.github.io/personal-react-portfolio/static/js/main.f3acd684.js.map"
   },
   "entrypoints": [
     "static/css/main.8a828677.css",
-    "static/js/main.5c290a56.js"
+    "static/js/main.f3acd684.js"
   ]
 }
