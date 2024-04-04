@@ -3,7 +3,7 @@ import './portfolio.css';
 import IMG1 from '../../assets/portfolio1.png';
 import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
-import IMG4 from '../../assets/portfolio4.jpg';
+import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.jpg';
 
@@ -32,9 +32,9 @@ const data = [
     {
         id: 4,
         image: IMG4,
-        title: 'This is a portfolio item title',
-        github: '#',
-        demo: '#'
+        title: 'BenCreate Consult',
+        github: 'https://github.com/ARMSTRONG-AISOSA/BenCreate/',
+        demo: 'https://armstrong-aisosa.github.io/BenCreate/'
     },
     {
         id: 5,
