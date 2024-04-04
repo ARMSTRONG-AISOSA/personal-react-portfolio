@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, voluptates ipsum distinctio iusto quam atque, ducimus dicta facere fuga illo amet? Ex reprehenderit voluptatem ut eaque facere odio dolore necessitatibus!</p>
+          <p>I am a self-driven person who enjoys challenges that present growth opportunities. I constantly work to better myself in whatever capacity or role I occupy and am eager to make significant contributions to whatever team or organization I find myself. As a Front-end Web Developer, I excel at translating design concepts into seamless and responsive web experiences. Driven by a pursuit of excellence, I approach each project with meticulous attention and a dedication to delivering results that exceed expectations. Beyond technical proficiency, I bring a collaborative spirit and a penchant for problem-solving to every team I work with. Let's build something extraordinary together.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

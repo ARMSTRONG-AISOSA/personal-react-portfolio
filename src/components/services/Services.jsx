@@ -12,7 +12,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX DESIGN</h3>
+            <h3>SOFT SKILLS</h3>
           </div>
 
           <ul className="service__list">
@@ -54,7 +54,7 @@ const Services = () => {
             {/* #1 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Responsive Web Design</p>
             </li>
             {/* #2 */}
             <li>
@@ -64,17 +64,17 @@ const Services = () => {
             {/* #3 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Knowledge of SEO principles</p>
             </li>
             {/* #4 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Knowledge on Design Principle</p>
             </li>
             {/* #5 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Website performance optimization techniques</p>
             </li>
             {/* #6 */}
             <li>
