@@ -11,21 +11,24 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'A Podcast Website',
+        title: 'Micro Podcast',
+        info: 'A platform to listen to all kinds of podcast.',
         github: 'https://github.com/ARMSTRONG-AISOSA/Podcast-Webpage/tree/master',
         demo: 'https://armstrong-aisosa.github.io/Podcast-Webpage/'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'A Payment Platform',
+        title: 'HooBank',
+        info: 'A payment platform with diverse online transactions mean.',
         github: 'https://github.com/ARMSTRONG-AISOSA/hoobank_project_build',
         demo: 'https://armstrong-aisosa.github.io/hoobank_project_build/'
     },
     {
         id: 3,
         image: IMG3,
-        title: 'A Gaming Website',
+        title: 'GameRex',
+        info: 'A website for gamers to buy their favourite games, gadget and merch’s.',
         github: 'https://github.com/ARMSTRONG-AISOSA/Gaming-Website/tree/master',
         demo: 'https://armstrong-aisosa.github.io/Gaming-Website/'
     },
@@ -33,6 +36,7 @@ const data = [
         id: 4,
         image: IMG4,
         title: 'BenCreate Consult',
+        info: 'A consulting website for a business.',
         github: 'https://github.com/ARMSTRONG-AISOSA/BenCreate/',
         demo: 'https://armstrong-aisosa.github.io/BenCreate/'
     },
@@ -40,6 +44,7 @@ const data = [
         id: 5,
         image: IMG5,
         title: 'This is a portfolio item title',
+        info: 'This is a portfolio item title',
         github: '#',
         demo: '#'
     },
@@ -47,6 +52,7 @@ const data = [
         id: 6,
         image: IMG6,
         title: 'This is a portfolio item title',
+        info: 'This is a portfolio item title.',
         github: '#',
         demo: '#'
     }
@@ -60,11 +66,12 @@ const Portfolio = () => {
 
             <div className="container portfolio__container">
                 {
-                    data.map(({ id, image, title, github, demo }) => {
+                    data.map(({ id, image, title, info, github, demo }) => {
                         return (
                             <article key={id} className="portfolio__item">
                                 <div className="portfolio__item-image"><img src={image} alt={title} /></div>
                                 <h3>{title}</h3>
+                                <h5>{info}</h5>
                                 <div className="portfolio__item-cta">
                                     <a href={github} className="btn" target='_blank' rel="noreferrer">Github</a>
                                     <a href={demo} className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
