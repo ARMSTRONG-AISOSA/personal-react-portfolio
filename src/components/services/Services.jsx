@@ -12,7 +12,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>SOFT SKILLS</h3>
+            <h3>DIGITAL SERVICES</h3>
           </div>
 
           <ul className="service__list">
@@ -20,30 +20,24 @@ const Services = () => {
             <li>
               <GrFormCheckmark className='service__list-icon'/>
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              {/* <p>Web Ad</p> */}
             </li>
             {/* #2 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              {/* <p>Social Media Management.</p> */}
             </li>
             {/* #3 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              {/* <p>Graphics Design.</p> */}
             </li>
-            {/* #4 */}
-            <li>
-              <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-            {/* #5 */}
-            <li>
-              <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
+            
           </ul>
         </article>
-        {/* END OF UI/UX */}
+        {/* DIGITAL SERVICES */}
 
         <article className="service">
           <div className="service__head">
@@ -54,32 +48,27 @@ const Services = () => {
             {/* #1 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Responsive Web Design</p>
+              <p>Business Optimised website</p>
             </li>
             {/* #2 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Personal Portfolio for Professionals </p>
             </li>
             {/* #3 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Knowledge of SEO principles</p>
+              <p>Responsive Web Design Platforms</p>
             </li>
             {/* #4 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Knowledge on Design Principle</p>
+              <p>SEO & Design Principle for Performance</p>
             </li>
             {/* #5 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Website performance optimization techniques</p>
-            </li>
-            {/* #6 */}
-            <li>
-              <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>User & Performance Optismed Websites</p>
             </li>
           </ul>
         </article>
@@ -87,38 +76,28 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>CONTENT CREATION</h3>
+            <h3>BUSINESS DEVELOPMENT</h3>
           </div>
 
           <ul className="service__list">
             {/* #1 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Pitch Deck Creation</p>
             </li>
             {/* #2 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Business Plans</p>
             </li>
             {/* #3 */}
             <li>
               <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-            {/* #4 */}
-            <li>
-              <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-            {/* #5 */}
-            <li>
-              <GrFormCheckmark className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Business Proposals</p>
             </li>
           </ul>
         </article>
-        {/* END OF CONTENT CREATION */}
+        {/* END OF BUSINESS DEVELOPMENT */}
       </div>
     </section>
   )
