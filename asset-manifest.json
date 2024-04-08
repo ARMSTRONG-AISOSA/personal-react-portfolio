@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-react-portfolio/static/css/main.8a7c9936.css",
-    "main.js": "/personal-react-portfolio/static/js/main.01a3fb56.js",
+    "main.js": "/personal-react-portfolio/static/js/main.82d55d4d.js",
     "static/media/portfolio3.png": "/personal-react-portfolio/static/media/portfolio3.645bc06c63593da68077.png",
     "static/media/me-hero.png": "/personal-react-portfolio/static/media/me-hero.28e2579e0757529a4c2f.png",
     "static/media/portfolio4.png": "/personal-react-portfolio/static/media/portfolio4.b6a27649f07c2c3d3147.png",
@@ -13,10 +13,10 @@
     "static/media/ARMSTRONG_OMOREGIE_CV.pdf": "/personal-react-portfolio/static/media/ARMSTRONG_OMOREGIE_CV.0509582bf784c3669012.pdf",
     "index.html": "/personal-react-portfolio/index.html",
     "main.8a7c9936.css.map": "/personal-react-portfolio/static/css/main.8a7c9936.css.map",
-    "main.01a3fb56.js.map": "/personal-react-portfolio/static/js/main.01a3fb56.js.map"
+    "main.82d55d4d.js.map": "/personal-react-portfolio/static/js/main.82d55d4d.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7c9936.css",
-    "static/js/main.01a3fb56.js"
+    "static/js/main.82d55d4d.js"
   ]
 }
