@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+// import IMG6 from '../../assets/portfolio6.jpg';
 
 const data = [
     {
@@ -28,7 +28,7 @@ const data = [
         id: 3,
         image: IMG3,
         title: 'GameRex',
-        info: 'A website for gamers to buy their favourite games, gadget and merch’s.',
+        info: 'A website for gamers to buy their favourite games, gadget and merch\'s.',
         github: 'https://github.com/ARMSTRONG-AISOSA/Gaming-Website/tree/master',
         demo: 'https://armstrong-aisosa.github.io/Gaming-Website/'
     },
@@ -43,19 +43,19 @@ const data = [
     {
         id: 5,
         image: IMG5,
-        title: 'This is a portfolio item title',
-        info: 'This is a portfolio item title',
-        github: '#',
-        demo: '#'
+        title: 'Gerichte',
+        info: 'This is a React based Resturant Website',
+        github: 'https://github.com/ARMSTRONG-AISOSA/react-resturant-project/',
+        demo: 'https://armstrong-aisosa.github.io/react-resturant-project/'
     },
-    {
-        id: 6,
-        image: IMG6,
-        title: 'This is a portfolio item title',
-        info: 'This is a portfolio item title.',
-        github: '#',
-        demo: '#'
-    }
+    // {
+    //     id: 6,
+    //     image: IMG6,
+    //     title: 'This is a portfolio item title',
+    //     info: 'This is a portfolio item title.',
+    //     github: '#',
+    //     demo: '#'
+    // }
 ]
 
 const Portfolio = () => {
