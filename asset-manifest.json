@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-react-portfolio/static/css/main.8a7c9936.css",
-    "main.js": "/personal-react-portfolio/static/js/main.6b6e389f.js",
+    "main.js": "/personal-react-portfolio/static/js/main.7a9a2648.js",
     "static/media/portfolio3.png": "/personal-react-portfolio/static/media/portfolio3.645bc06c63593da68077.png",
     "static/media/me-hero.png": "/personal-react-portfolio/static/media/me-hero.28e2579e0757529a4c2f.png",
     "static/media/portfolio4.png": "/personal-react-portfolio/static/media/portfolio4.b6a27649f07c2c3d3147.png",
@@ -9,6 +9,7 @@
     "static/media/me-about-photo.png": "/personal-react-portfolio/static/media/me-about-photo.bb1c3ce11bd5d54b42cc.png",
     "static/media/portfolio5.png": "/personal-react-portfolio/static/media/portfolio5.fa5476b759d98073734f.png",
     "static/media/portfolio2.png": "/personal-react-portfolio/static/media/portfolio2.2e2e1855bfb6de1f4b76.png",
+    "static/media/portfolio6.png": "/personal-react-portfolio/static/media/portfolio6.3ba3344af02b02817769.png",
     "static/media/ARMSTRONG_OMOREGIE_CV.pdf": "/personal-react-portfolio/static/media/ARMSTRONG_OMOREGIE_CV.0509582bf784c3669012.pdf",
     "static/media/avatar1.png": "/personal-react-portfolio/static/media/avatar1.7621784c552a3dc90fee.png",
     "static/media/avatar5.jpg": "/personal-react-portfolio/static/media/avatar5.27ab89bf0f3df0c378d7.jpg",
@@ -17,10 +18,10 @@
     "static/media/avatar6.jpg": "/personal-react-portfolio/static/media/avatar6.96b11a47983d5475cd5d.jpg",
     "index.html": "/personal-react-portfolio/index.html",
     "main.8a7c9936.css.map": "/personal-react-portfolio/static/css/main.8a7c9936.css.map",
-    "main.6b6e389f.js.map": "/personal-react-portfolio/static/js/main.6b6e389f.js.map"
+    "main.7a9a2648.js.map": "/personal-react-portfolio/static/js/main.7a9a2648.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7c9936.css",
-    "static/js/main.6b6e389f.js"
+    "static/js/main.7a9a2648.js"
   ]
 }
