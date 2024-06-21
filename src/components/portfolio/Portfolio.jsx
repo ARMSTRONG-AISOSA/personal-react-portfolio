@@ -55,7 +55,7 @@ const data = [
         title: 'Gemini Clon',
         info: 'This ia an AGI clone built with react and consumes Gemini Api',
         github: 'https://github.com/ARMSTRONG-AISOSA/gemini-clone',
-        demo: 'https://armstrong-aisosa.github.io/react-resturant-project/'
+        demo: 'https://armstrong-aisosa.github.io/gemini-clone/'
     },
     // {
     //     id: 6,
