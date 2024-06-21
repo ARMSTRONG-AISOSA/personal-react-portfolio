@@ -5,6 +5,7 @@ import IMG2 from '../../assets/portfolio2.png';
 import IMG3 from '../../assets/portfolio3.png';
 import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
+import IMG6 from '../../assets/portfolio6.png';
 // import IMG6 from '../../assets/portfolio6.jpg';
 
 const data = [
@@ -46,6 +47,14 @@ const data = [
         title: 'Gerichte',
         info: 'This is a React based Resturant Website',
         github: 'https://github.com/ARMSTRONG-AISOSA/react-resturant-project/',
+        demo: 'https://armstrong-aisosa.github.io/react-resturant-project/'
+    },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'Gemini Clon',
+        info: 'This ia an AGI clone built with react and consumes Gemini Api',
+        github: 'https://github.com/ARMSTRONG-AISOSA/gemini-clone',
         demo: 'https://armstrong-aisosa.github.io/react-resturant-project/'
     },
     // {
